@@ -46,6 +46,4 @@ Created an Excel dashboard containing:
 
 ## Dashboard Preview
 
-! [superstore-Dashboard](./
-superstore-Dashboard.png)
-
+![superstore-Dashboard](./superstore-Dashboard.png)
