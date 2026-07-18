@@ -43,3 +43,8 @@ Created an Excel dashboard containing:
 - Excel Reporting
 - Data Visualization
 - Business Insights
+
+## Dashboard Preview
+![ Superstore Dashboard ]
+(superstore-Dashboard.png)
+
