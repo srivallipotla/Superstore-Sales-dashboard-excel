@@ -45,6 +45,7 @@ Created an Excel dashboard containing:
 - Business Insights
 
 ## Dashboard Preview
-![ Superstore Dashboard ]
+![Superstore Dashboard]
+
 (superstore-Dashboard.png)
 
